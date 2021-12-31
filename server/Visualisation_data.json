@@ -1,330 +1,131 @@
 {
-    "months": 65,
+    "Repository Name": "trekhleb/javascript-algorithms",
+    "months": 44,
     "points": [
         {
-            "Date": "2016-08",
-            "Count": 1,
-            "Commit Rate": 0.25
+            "Date": "2018-03",
+            "Count": 44,
+            "Commit Rate": 11.0
         },
         {
-            "Date": "2016-10",
-            "Count": 0,
-            "Commit Rate": 0.0
+            "Date": "2018-04",
+            "Count": 189,
+            "Commit Rate": 47.25
         },
         {
-            "Date": "2016-08",
-            "Count": 59,
-            "Commit Rate": 14.75
+            "Date": "2018-05",
+            "Count": 147,
+            "Commit Rate": 36.75
         },
         {
-            "Date": "2016-09",
-            "Count": 71,
-            "Commit Rate": 17.75
+            "Date": "2018-06",
+            "Count": 103,
+            "Commit Rate": 25.75
         },
         {
-            "Date": "2016-10",
-            "Count": 93,
-            "Commit Rate": 23.25
+            "Date": "2018-07",
+            "Count": 77,
+            "Commit Rate": 19.25
         },
         {
-            "Date": "2016-11",
-            "Count": 36,
-            "Commit Rate": 9.0
+            "Date": "2018-08",
+            "Count": 101,
+            "Commit Rate": 25.25
         },
         {
-            "Date": "2016-12",
-            "Count": 38,
-            "Commit Rate": 9.5
-        },
-        {
-            "Date": "2017-01",
-            "Count": 57,
-            "Commit Rate": 14.25
-        },
-        {
-            "Date": "2017-02",
-            "Count": 109,
-            "Commit Rate": 27.25
-        },
-        {
-            "Date": "2017-03",
-            "Count": 80,
-            "Commit Rate": 20.0
-        },
-        {
-            "Date": "2017-04",
-            "Count": 22,
-            "Commit Rate": 5.5
-        },
-        {
-            "Date": "2017-05",
+            "Date": "2018-09",
             "Count": 35,
             "Commit Rate": 8.75
         },
         {
-            "Date": "2017-06",
-            "Count": 34,
-            "Commit Rate": 8.5
+            "Date": "2018-10",
+            "Count": 8,
+            "Commit Rate": 2.0
         },
         {
-            "Date": "2017-07",
-            "Count": 39,
-            "Commit Rate": 9.75
+            "Date": "2018-11",
+            "Count": 6,
+            "Commit Rate": 1.5
         },
         {
-            "Date": "2017-08",
-            "Count": 16,
-            "Commit Rate": 4.0
-        },
-        {
-            "Date": "2017-09",
+            "Date": "2018-12",
             "Count": 26,
             "Commit Rate": 6.5
         },
         {
-            "Date": "2017-10",
-            "Count": 3,
-            "Commit Rate": 0.75
+            "Date": "2019-01",
+            "Count": 1,
+            "Commit Rate": 0.25
         },
         {
-            "Date": "2017-11",
+            "Date": "2019-02",
+            "Count": 2,
+            "Commit Rate": 0.5
+        },
+        {
+            "Date": "2019-03",
+            "Count": 25,
+            "Commit Rate": 6.25
+        },
+        {
+            "Date": "2019-04",
+            "Count": 11,
+            "Commit Rate": 2.75
+        },
+        {
+            "Date": "2019-06",
+            "Count": 0,
+            "Commit Rate": 0.0
+        },
+        {
+            "Date": "2019-12",
+            "Count": 0,
+            "Commit Rate": 0.0
+        },
+        {
+            "Date": "2020-07",
             "Count": 21,
             "Commit Rate": 5.25
         },
         {
-            "Date": "2017-12",
-            "Count": 32,
-            "Commit Rate": 8.0
-        },
-        {
-            "Date": "2018-01",
-            "Count": 36,
-            "Commit Rate": 9.0
-        },
-        {
-            "Date": "2018-02",
-            "Count": 14,
-            "Commit Rate": 3.5
-        },
-        {
-            "Date": "2018-03",
-            "Count": 52,
-            "Commit Rate": 13.0
-        },
-        {
-            "Date": "2018-04",
-            "Count": 11,
-            "Commit Rate": 2.75
-        },
-        {
-            "Date": "2018-05",
-            "Count": 17,
-            "Commit Rate": 4.25
-        },
-        {
-            "Date": "2018-06",
-            "Count": 8,
-            "Commit Rate": 2.0
-        },
-        {
-            "Date": "2018-07",
-            "Count": 26,
-            "Commit Rate": 6.5
-        },
-        {
-            "Date": "2018-08",
-            "Count": 18,
-            "Commit Rate": 4.5
-        },
-        {
-            "Date": "2018-09",
-            "Count": 23,
-            "Commit Rate": 5.75
-        },
-        {
-            "Date": "2018-10",
-            "Count": 1,
-            "Commit Rate": 0.25
-        },
-        {
-            "Date": "2018-11",
-            "Count": 4,
-            "Commit Rate": 1.0
-        },
-        {
-            "Date": "2018-12",
-            "Count": 30,
-            "Commit Rate": 7.5
-        },
-        {
-            "Date": "2019-01",
-            "Count": 3,
-            "Commit Rate": 0.75
-        },
-        {
-            "Date": "2019-02",
-            "Count": 20,
-            "Commit Rate": 5.0
-        },
-        {
-            "Date": "2019-03",
-            "Count": 14,
-            "Commit Rate": 3.5
-        },
-        {
-            "Date": "2019-04",
-            "Count": 4,
-            "Commit Rate": 1.0
-        },
-        {
-            "Date": "2019-05",
-            "Count": 18,
-            "Commit Rate": 4.5
-        },
-        {
-            "Date": "2019-06",
-            "Count": 8,
-            "Commit Rate": 2.0
-        },
-        {
-            "Date": "2019-07",
-            "Count": 9,
-            "Commit Rate": 2.25
-        },
-        {
-            "Date": "2019-08",
-            "Count": 9,
-            "Commit Rate": 2.25
-        },
-        {
-            "Date": "2019-09",
-            "Count": 3,
-            "Commit Rate": 0.75
-        },
-        {
-            "Date": "2019-10",
-            "Count": 8,
-            "Commit Rate": 2.0
-        },
-        {
-            "Date": "2019-11",
-            "Count": 18,
-            "Commit Rate": 4.5
-        },
-        {
-            "Date": "2019-12",
-            "Count": 5,
-            "Commit Rate": 1.25
-        },
-        {
-            "Date": "2020-01",
-            "Count": 3,
-            "Commit Rate": 0.75
-        },
-        {
-            "Date": "2020-02",
-            "Count": 11,
-            "Commit Rate": 2.75
-        },
-        {
-            "Date": "2020-03",
-            "Count": 0,
-            "Commit Rate": 0.0
-        },
-        {
-            "Date": "2020-05",
-            "Count": 1,
-            "Commit Rate": 0.25
-        },
-        {
-            "Date": "2020-06",
-            "Count": 2,
-            "Commit Rate": 0.5
-        },
-        {
-            "Date": "2020-07",
-            "Count": 0,
-            "Commit Rate": 0.0
-        },
-        {
             "Date": "2020-08",
-            "Count": 14,
-            "Commit Rate": 3.5
-        },
-        {
-            "Date": "2020-09",
-            "Count": 0,
-            "Commit Rate": 0.0
+            "Count": 10,
+            "Commit Rate": 2.5
         },
         {
             "Date": "2020-10",
-            "Count": 14,
-            "Commit Rate": 3.5
-        },
-        {
-            "Date": "2020-11",
-            "Count": 16,
-            "Commit Rate": 4.0
-        },
-        {
-            "Date": "2020-12",
-            "Count": 19,
-            "Commit Rate": 4.75
-        },
-        {
-            "Date": "2021-01",
-            "Count": 2,
-            "Commit Rate": 0.5
-        },
-        {
-            "Date": "2021-02",
-            "Count": 8,
-            "Commit Rate": 2.0
-        },
-        {
-            "Date": "2021-03",
-            "Count": 9,
-            "Commit Rate": 2.25
-        },
-        {
-            "Date": "2021-04",
-            "Count": 5,
-            "Commit Rate": 1.25
-        },
-        {
-            "Date": "2021-05",
-            "Count": 4,
-            "Commit Rate": 1.0
-        },
-        {
-            "Date": "2021-06",
             "Count": 1,
             "Commit Rate": 0.25
         },
         {
+            "Date": "2020-11",
+            "Count": 3,
+            "Commit Rate": 0.75
+        },
+        {
+            "Date": "2020-12",
+            "Count": 96,
+            "Commit Rate": 24.0
+        },
+        {
+            "Date": "2021-01",
+            "Count": 6,
+            "Commit Rate": 1.5
+        },
+        {
+            "Date": "2021-04",
+            "Count": 7,
+            "Commit Rate": 1.75
+        },
+        {
+            "Date": "2021-05",
+            "Count": 9,
+            "Commit Rate": 2.25
+        },
+        {
             "Date": "2021-07",
-            "Count": 19,
-            "Commit Rate": 4.75
-        },
-        {
-            "Date": "2021-08",
-            "Count": 11,
-            "Commit Rate": 2.75
-        },
-        {
-            "Date": "2021-09",
-            "Count": 13,
-            "Commit Rate": 3.25
-        },
-        {
-            "Date": "2021-10",
             "Count": 4,
             "Commit Rate": 1.0
-        },
-        {
-            "Date": "2021-11",
-            "Count": 16,
-            "Commit Rate": 4.0
         }
     ]
 }

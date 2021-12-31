@@ -17,6 +17,7 @@ for dt in rrule(MONTHLY, dtstart=startDate, until=endDate): #Compute the amount 
 print (months)
 #Declare data for visualisation 
 visual_data = { 
+        'Repository Name': data['repo'],
         'months' : months, 
         'points' : []
         }

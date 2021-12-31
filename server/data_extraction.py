@@ -1,12 +1,16 @@
 from github import Github 
 import pprint 
 import json
-g = Github("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")
 
-repo = g.get_repo("airbnb/lottie-android") 
+f = open("GIT.json")
+gitFile = json.load(f)
+g = Github(gitFile['token'])
+
+repo = g.get_repo(gitFile['repo'])
 commits = repo.get_commits().reversed
 outfile = open("Commit_Times.json", "w+")
 list = {
+    'repo'    : gitFile['repo'],
     'size'    : commits.totalCount , 
     'list' : {
     }
