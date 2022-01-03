@@ -1,0 +1,286 @@
+{
+    "Repository Name": "dwmkerr/hacker-laws",
+    "Minium cut off for commits": 2.5,
+    "points": [
+        {
+            "contributor": "others",
+            "count": 0
+        },
+        {
+            "contributor": "Thomas Smets",
+            "count": 1
+        },
+        {
+            "contributor": "Kenzo",
+            "count": 1
+        },
+        {
+            "contributor": "Dan",
+            "count": 1
+        },
+        {
+            "contributor": "Tadas Medi\u0161auskas",
+            "count": 1
+        },
+        {
+            "contributor": "Minetto",
+            "count": 2
+        },
+        {
+            "contributor": "Dillon Adams",
+            "count": 3
+        },
+        {
+            "contributor": "Jeff Nickoloff",
+            "count": 2
+        },
+        {
+            "contributor": "Ryan Rix",
+            "count": 2
+        },
+        {
+            "contributor": "Hongarc",
+            "count": 2
+        },
+        {
+            "contributor": "Pepe Bawagan",
+            "count": 1
+        },
+        {
+            "contributor": "steve xu",
+            "count": 2
+        },
+        {
+            "contributor": "Julio Lozovei",
+            "count": 4
+        },
+        {
+            "contributor": "Faycel",
+            "count": 1
+        },
+        {
+            "contributor": "Brady Wetherington",
+            "count": 2
+        },
+        {
+            "contributor": "Bal\u00e1zs Richer",
+            "count": 2
+        },
+        {
+            "contributor": "itallmakesense",
+            "count": 1
+        },
+        {
+            "contributor": "Nuno Barreiro",
+            "count": 2
+        },
+        {
+            "contributor": "Matthias Zeis",
+            "count": 2
+        },
+        {
+            "contributor": "Alena Batitskaya",
+            "count": 1
+        },
+        {
+            "contributor": "Pavel",
+            "count": 1
+        },
+        {
+            "contributor": "Thomas Ferris Nicolaisen",
+            "count": 1
+        },
+        {
+            "contributor": "Rodrigo",
+            "count": 1
+        },
+        {
+            "contributor": "Claudio Sparpaglione",
+            "count": 1
+        },
+        {
+            "contributor": "Jonathan Backhaus",
+            "count": 2
+        },
+        {
+            "contributor": "Vikram Kriplaney",
+            "count": 1
+        },
+        {
+            "contributor": "Alois",
+            "count": 1
+        },
+        {
+            "contributor": "Ryan Stubberfield",
+            "count": 2
+        },
+        {
+            "contributor": "Michal Kaptur",
+            "count": 1
+        },
+        {
+            "contributor": "Umut Isik",
+            "count": 4
+        },
+        {
+            "contributor": "David Higgins",
+            "count": 1
+        },
+        {
+            "contributor": "Manuel Rubio",
+            "count": 1
+        },
+        {
+            "contributor": "Steve",
+            "count": 1
+        },
+        {
+            "contributor": "Adam Jones",
+            "count": 1
+        },
+        {
+            "contributor": "aetiusflavius",
+            "count": 2
+        },
+        {
+            "contributor": "wzel",
+            "count": 1
+        },
+        {
+            "contributor": "Gabriel Vacari",
+            "count": 1
+        },
+        {
+            "contributor": "aaasko",
+            "count": 1
+        },
+        {
+            "contributor": "Roberto Polli",
+            "count": 1
+        },
+        {
+            "contributor": "Alexander Lavin",
+            "count": 1
+        },
+        {
+            "contributor": "1t1e1",
+            "count": 1
+        },
+        {
+            "contributor": "Dathan Bennett",
+            "count": 1
+        },
+        {
+            "contributor": "Rich Morin",
+            "count": 1
+        },
+        {
+            "contributor": "James A. Bednar",
+            "count": 1
+        },
+        {
+            "contributor": "Vicente Pons",
+            "count": 1
+        },
+        {
+            "contributor": "Feller Ailton",
+            "count": 1
+        },
+        {
+            "contributor": "Douglas Naphas",
+            "count": 1
+        },
+        {
+            "contributor": "Luke Stevenson",
+            "count": 1
+        },
+        {
+            "contributor": "Hakan Kutluay",
+            "count": 2
+        },
+        {
+            "contributor": "German Gamboa Gonzalez",
+            "count": 1
+        },
+        {
+            "contributor": "Darek Kay",
+            "count": 1
+        },
+        {
+            "contributor": "Ary Widiantara",
+            "count": 2
+        },
+        {
+            "contributor": "Kevin Bockelandt",
+            "count": 2
+        },
+        {
+            "contributor": "Jeremy",
+            "count": 1
+        },
+        {
+            "contributor": "Eug\u00eanio Moreira",
+            "count": 1
+        },
+        {
+            "contributor": "Simon Brunning",
+            "count": 1
+        },
+        {
+            "contributor": "Fumikazu Fujiwara | Freddie",
+            "count": 1
+        },
+        {
+            "contributor": "Yasuharu Yanamura",
+            "count": 1
+        },
+        {
+            "contributor": "puremana",
+            "count": 5
+        },
+        {
+            "contributor": "Roger Marlow",
+            "count": 2
+        },
+        {
+            "contributor": "Rafed Ramzi",
+            "count": 1
+        },
+        {
+            "contributor": "Adam Lis",
+            "count": 1
+        },
+        {
+            "contributor": "i3anaan",
+            "count": 1
+        },
+        {
+            "contributor": "leocaraballo",
+            "count": 1
+        },
+        {
+            "contributor": "Akash Chandwani",
+            "count": 3
+        },
+        {
+            "contributor": "Nicu Borta",
+            "count": 1
+        },
+        {
+            "contributor": "Redowan Delowar",
+            "count": 1
+        },
+        {
+            "contributor": "Francisco Galuppo Azevedo",
+            "count": 1
+        },
+        {
+            "contributor": "Skander",
+            "count": 1
+        },
+        {
+            "contributor": "Joshua-Rose",
+            "count": 1
+        }
+    ]
+}

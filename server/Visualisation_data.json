@@ -1,131 +1,378 @@
 {
-    "Repository Name": "trekhleb/javascript-algorithms",
-    "months": 44,
+    "Repository Name": "dwmkerr/hacker-laws",
+    "Commit months": 46,
+    "Issue months": 0,
+    "TotalCommits": 413,
+    "avgCommitRate": 2.0652173913043477,
     "points": [
         {
+            "Date": "2018-01",
+            "Commit Count": 1.25,
+            "Commit Rate": 1.25,
+            "Total Issue Count": 0,
+            "Issues opened": 0,
+            "Issues closed": 0
+        },
+        {
+            "Date": "2018-02",
+            "Commit Count": 0.25,
+            "Commit Rate": 0.25,
+            "Total Issue Count": 0,
+            "Issues opened": 0,
+            "Issues closed": 0
+        },
+        {
             "Date": "2018-03",
-            "Count": 44,
-            "Commit Rate": 11.0
+            "Commit Count": 0,
+            "Commit Rate": 0,
+            "Total Issue Count": 0,
+            "Issues opened": 0,
+            "Issues closed": 0
         },
         {
             "Date": "2018-04",
-            "Count": 189,
-            "Commit Rate": 47.25
+            "Commit Count": 0,
+            "Commit Rate": 0,
+            "Total Issue Count": 0,
+            "Issues opened": 0,
+            "Issues closed": 0
         },
         {
             "Date": "2018-05",
-            "Count": 147,
-            "Commit Rate": 36.75
+            "Commit Count": 0,
+            "Commit Rate": 0,
+            "Total Issue Count": 0,
+            "Issues opened": 0,
+            "Issues closed": 0
         },
         {
             "Date": "2018-06",
-            "Count": 103,
-            "Commit Rate": 25.75
+            "Commit Count": 0,
+            "Commit Rate": 0,
+            "Total Issue Count": 0,
+            "Issues opened": 0,
+            "Issues closed": 0
         },
         {
             "Date": "2018-07",
-            "Count": 77,
-            "Commit Rate": 19.25
+            "Commit Count": 0,
+            "Commit Rate": 0,
+            "Total Issue Count": 0,
+            "Issues opened": 0,
+            "Issues closed": 0
         },
         {
             "Date": "2018-08",
-            "Count": 101,
-            "Commit Rate": 25.25
+            "Commit Count": 0,
+            "Commit Rate": 0,
+            "Total Issue Count": 0,
+            "Issues opened": 0,
+            "Issues closed": 0
         },
         {
             "Date": "2018-09",
-            "Count": 35,
-            "Commit Rate": 8.75
+            "Commit Count": 0,
+            "Commit Rate": 0,
+            "Total Issue Count": 0,
+            "Issues opened": 0,
+            "Issues closed": 0
         },
         {
             "Date": "2018-10",
-            "Count": 8,
-            "Commit Rate": 2.0
+            "Commit Count": 5.5,
+            "Commit Rate": 5.5,
+            "Total Issue Count": 9,
+            "Issues opened": 9,
+            "Issues closed": 3
         },
         {
             "Date": "2018-11",
-            "Count": 6,
-            "Commit Rate": 1.5
+            "Commit Count": 0.5,
+            "Commit Rate": 0.5,
+            "Total Issue Count": 0,
+            "Issues opened": 0,
+            "Issues closed": 0
         },
         {
             "Date": "2018-12",
-            "Count": 26,
-            "Commit Rate": 6.5
+            "Commit Count": 0,
+            "Commit Rate": 0,
+            "Total Issue Count": 0,
+            "Issues opened": 0,
+            "Issues closed": 0
         },
         {
             "Date": "2019-01",
-            "Count": 1,
-            "Commit Rate": 0.25
+            "Commit Count": 0.25,
+            "Commit Rate": 0.25,
+            "Total Issue Count": 0,
+            "Issues opened": 0,
+            "Issues closed": 3
         },
         {
             "Date": "2019-02",
-            "Count": 2,
-            "Commit Rate": 0.5
+            "Commit Count": 1.0,
+            "Commit Rate": 1.0,
+            "Total Issue Count": 0,
+            "Issues opened": 0,
+            "Issues closed": 0
         },
         {
             "Date": "2019-03",
-            "Count": 25,
-            "Commit Rate": 6.25
+            "Commit Count": 0.0,
+            "Commit Rate": 0.0,
+            "Total Issue Count": 0,
+            "Issues opened": 0,
+            "Issues closed": 0
         },
         {
             "Date": "2019-04",
-            "Count": 11,
-            "Commit Rate": 2.75
+            "Commit Count": 2.25,
+            "Commit Rate": 2.25,
+            "Total Issue Count": 8,
+            "Issues opened": 8,
+            "Issues closed": 3
+        },
+        {
+            "Date": "2019-05",
+            "Commit Count": 15.0,
+            "Commit Rate": 15.0,
+            "Total Issue Count": 17,
+            "Issues opened": 17,
+            "Issues closed": 3
         },
         {
             "Date": "2019-06",
-            "Count": 0,
-            "Commit Rate": 0.0
+            "Commit Count": 6.75,
+            "Commit Rate": 6.75,
+            "Total Issue Count": 0,
+            "Issues opened": 0,
+            "Issues closed": 0
+        },
+        {
+            "Date": "2019-07",
+            "Commit Count": 3.25,
+            "Commit Rate": 3.25,
+            "Total Issue Count": 2,
+            "Issues opened": 2,
+            "Issues closed": 0
+        },
+        {
+            "Date": "2019-08",
+            "Commit Count": 2.75,
+            "Commit Rate": 2.75,
+            "Total Issue Count": 0,
+            "Issues opened": 0,
+            "Issues closed": 0
+        },
+        {
+            "Date": "2019-09",
+            "Commit Count": 0.5,
+            "Commit Rate": 0.5,
+            "Total Issue Count": 0,
+            "Issues opened": 0,
+            "Issues closed": 0
+        },
+        {
+            "Date": "2019-10",
+            "Commit Count": 4.0,
+            "Commit Rate": 4.0,
+            "Total Issue Count": 0,
+            "Issues opened": 0,
+            "Issues closed": 0
+        },
+        {
+            "Date": "2019-11",
+            "Commit Count": 8.5,
+            "Commit Rate": 8.5,
+            "Total Issue Count": 15,
+            "Issues opened": 15,
+            "Issues closed": 0
         },
         {
             "Date": "2019-12",
-            "Count": 0,
-            "Commit Rate": 0.0
+            "Commit Count": 3.5,
+            "Commit Rate": 3.5,
+            "Total Issue Count": 0,
+            "Issues opened": 0,
+            "Issues closed": 0
+        },
+        {
+            "Date": "2020-01",
+            "Commit Count": 1.75,
+            "Commit Rate": 1.75,
+            "Total Issue Count": 1,
+            "Issues opened": 1,
+            "Issues closed": 0
+        },
+        {
+            "Date": "2020-02",
+            "Commit Count": 10.75,
+            "Commit Rate": 10.75,
+            "Total Issue Count": 12,
+            "Issues opened": 12,
+            "Issues closed": 0
+        },
+        {
+            "Date": "2020-03",
+            "Commit Count": 4.0,
+            "Commit Rate": 4.0,
+            "Total Issue Count": 0,
+            "Issues opened": 0,
+            "Issues closed": 0
+        },
+        {
+            "Date": "2020-04",
+            "Commit Count": 2.5,
+            "Commit Rate": 2.5,
+            "Total Issue Count": 0,
+            "Issues opened": 0,
+            "Issues closed": 0
+        },
+        {
+            "Date": "2020-05",
+            "Commit Count": 6.25,
+            "Commit Rate": 6.25,
+            "Total Issue Count": 1,
+            "Issues opened": 1,
+            "Issues closed": 0
+        },
+        {
+            "Date": "2020-06",
+            "Commit Count": 7.5,
+            "Commit Rate": 7.5,
+            "Total Issue Count": 0,
+            "Issues opened": 2,
+            "Issues closed": 3
         },
         {
             "Date": "2020-07",
-            "Count": 21,
-            "Commit Rate": 5.25
+            "Commit Count": 1.0,
+            "Commit Rate": 1.0,
+            "Total Issue Count": 3,
+            "Issues opened": 4,
+            "Issues closed": 0
         },
         {
             "Date": "2020-08",
-            "Count": 10,
-            "Commit Rate": 2.5
+            "Commit Count": 1.0,
+            "Commit Rate": 1.0,
+            "Total Issue Count": 0,
+            "Issues opened": 4,
+            "Issues closed": 0
+        },
+        {
+            "Date": "2020-09",
+            "Commit Count": 1.5,
+            "Commit Rate": 1.5,
+            "Total Issue Count": 0,
+            "Issues opened": 2,
+            "Issues closed": 0
         },
         {
             "Date": "2020-10",
-            "Count": 1,
-            "Commit Rate": 0.25
+            "Commit Count": 1.75,
+            "Commit Rate": 1.75,
+            "Total Issue Count": 0,
+            "Issues opened": 1,
+            "Issues closed": 0
         },
         {
             "Date": "2020-11",
-            "Count": 3,
-            "Commit Rate": 0.75
+            "Commit Count": 0.25,
+            "Commit Rate": 0.25,
+            "Total Issue Count": 0,
+            "Issues opened": 1,
+            "Issues closed": 0
         },
         {
             "Date": "2020-12",
-            "Count": 96,
-            "Commit Rate": 24.0
+            "Commit Count": 0.75,
+            "Commit Rate": 0.75,
+            "Total Issue Count": 0,
+            "Issues opened": 2,
+            "Issues closed": 0
         },
         {
             "Date": "2021-01",
-            "Count": 6,
-            "Commit Rate": 1.5
+            "Commit Count": 0,
+            "Commit Rate": 0,
+            "Total Issue Count": 1,
+            "Issues opened": 2,
+            "Issues closed": 0
+        },
+        {
+            "Date": "2021-02",
+            "Commit Count": 0.0,
+            "Commit Rate": 0.0,
+            "Total Issue Count": 0,
+            "Issues opened": 1,
+            "Issues closed": 0
+        },
+        {
+            "Date": "2021-03",
+            "Commit Count": 0.25,
+            "Commit Rate": 0.25,
+            "Total Issue Count": 0,
+            "Issues opened": 0,
+            "Issues closed": 0
         },
         {
             "Date": "2021-04",
-            "Count": 7,
-            "Commit Rate": 1.75
+            "Commit Count": 0.5,
+            "Commit Rate": 0.5,
+            "Total Issue Count": 0,
+            "Issues opened": 1,
+            "Issues closed": 0
         },
         {
             "Date": "2021-05",
-            "Count": 9,
-            "Commit Rate": 2.25
+            "Commit Count": 0,
+            "Commit Rate": 0,
+            "Total Issue Count": 0,
+            "Issues opened": 0,
+            "Issues closed": 0
+        },
+        {
+            "Date": "2021-06",
+            "Commit Count": 0,
+            "Commit Rate": 0,
+            "Total Issue Count": 0,
+            "Issues opened": 0,
+            "Issues closed": 0
         },
         {
             "Date": "2021-07",
-            "Count": 4,
-            "Commit Rate": 1.0
+            "Commit Count": 0,
+            "Commit Rate": 0,
+            "Total Issue Count": 0,
+            "Issues opened": 0,
+            "Issues closed": 0
+        },
+        {
+            "Date": "2021-08",
+            "Commit Count": 0,
+            "Commit Rate": 0,
+            "Total Issue Count": 0,
+            "Issues opened": 0,
+            "Issues closed": 0
+        },
+        {
+            "Date": "2021-09",
+            "Commit Count": 0,
+            "Commit Rate": 0,
+            "Total Issue Count": 0,
+            "Issues opened": 0,
+            "Issues closed": 0
+        },
+        {
+            "Date": "2021-10",
+            "Commit Count": 0,
+            "Commit Rate": 0,
+            "Total Issue Count": 2,
+            "Issues opened": 2,
+            "Issues closed": 0
         }
-    ]
+    ],
+    "Issue Months": 39
 }
