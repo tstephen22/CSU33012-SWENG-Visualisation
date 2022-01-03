@@ -38,7 +38,8 @@ manually start them up using either StartClient.bat or StartServer.bat.
 or whatever is used to run python in your cmd. 
 
 To manually enter the repository for viewing (as well as specificing the access token), please edit the GIT.json 
-located in /server. 
+located in /server. NOTE: The key in GIT.json will be unusable upon intial startup, but the graphs should still be 
+displayed as usual. 
 
 If any help is needed please feel free to contact me. 
 
