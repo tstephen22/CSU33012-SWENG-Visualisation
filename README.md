@@ -27,13 +27,15 @@ For client:
 Simple install (if on windows): 
 -Unzip into folder
 -Run INSTALL.bat 
--If 'py' is not recognised as a command, edit INSTALL.bat and replace with 'python' - it is 
-also possible to just replace each occurence with "pip install [package]" 
-To install client manually, cd into 'client' folder and run "npm install". 
+-If 'python' is not recognised as a command, edit INSTALL.bat and replace with 'py' - it is 
+also possible to just replace each occurence with "python -m pip install [package]" 
+To install client manually, cd into 'client' folder and run "npm install".
 
 To RUN: 
 -After installing, run RUN.bat. If the client or server fails individually, you can 
 manually start them up using either StartClient.bat or StartServer.bat. 
+-Same as the install guide, if 'python' is not recognised in the .bat then replace each occurence with 'py' 
+or whatever is used to run python in your cmd. 
 
 To manually enter the repository for viewing (as well as specificing the access token), please edit the GIT.json 
 located in /server. 
