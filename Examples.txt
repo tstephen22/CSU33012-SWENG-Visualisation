@@ -1,0 +1,3 @@
+token I used : "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" 
+Default repo: trekhleb/javascript-algorithms
+2nd: dwmkerr/hacker-laws
